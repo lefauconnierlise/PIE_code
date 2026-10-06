@@ -1,0 +1,13 @@
+Critère 9: trouvé du frame 112 au frame 301
+Début d'évaluation du critère 9
+Distance totale de retrait détectée : 888.96 px sur tolérance de 200 px
+Variation maximale d'angle détectée (corrigée) : 5.42° sur tolérance de 8°
+
+==================================================
+RAPPORT DU CRITÈRE 9 : Trajectoire de l'aiguille
+==================================================
+Nombre de frames analysées : 190
+Insertion unique (pas de retrait/réinsertion) : NON
+Pas de redressement : OUI
+Critère 9 validé : NON
+==================================================
